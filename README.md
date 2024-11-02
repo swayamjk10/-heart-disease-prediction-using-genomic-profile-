@@ -1,9 +1,9 @@
 # -Heart-Disease-prediction-using-genomic-profile-
 heart-disease-predictor.
 
-❤️ ##Heart Disease Prediction Project
+❤️ Heart Disease Prediction Project
 
-##Overview
+Overview
 
 This project aims to predict the presence of heart disease in patients using machine learning techniques. The model leverages the RandomForestClassifier algorithm to analyze various health parameters and determine the likelihood of heart disease.
 
