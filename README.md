@@ -48,9 +48,9 @@ To run this project locally, follow these steps:
    ```bash
    python -m venv venv
 
-4.Activate the virtual environment:
-On macOS/Linux:
-source venv/bin/activate
+4. Activate the virtual environment:
+   On macOS/Linux:
+   source venv/bin/activate
 
 5. Install the required packages:
 ```bash
@@ -70,13 +70,4 @@ Open a web browser and navigate to http://localhost:8501.
 
 The model's performance metrics, including accuracy, precision, recall, and F1 score, can be found in the model evaluation section. Detailed visualizations of feature importance and prediction outcomes are included.
 
-# Heart Disease Prediction App
 
-## 📦 Installation
-
-To get started, clone the repository and install the required packages:
-
-```bash
-git clone <repository-url>
-cd <repository-directory>
-pip install -r requirements.txt
