@@ -70,4 +70,23 @@ Open a web browser and navigate to http://localhost:8501.
 
 The model's performance metrics, including accuracy, precision, recall, and F1 score, can be found in the model evaluation section. Detailed visualizations of feature importance and prediction outcomes are included.
 
+📦 Installation
+To get started, clone the repository and install the required packages:
+
+```bash
+git clone <repository-url>
+cd <repository-directory>
+
+pip install -r requirements.txt
+🖥️ Usage
+Run the Streamlit app:
+```bash
+streamlit run app.py
+
+Open a web browser and navigate to http://localhost:8501.
+
+Input the required health parameters in the application and submit to receive a prediction. 🩺
+
+📈 Model Evaluation
+The model's performance metrics, including accuracy, precision, recall, and F1 score, can be found in the model evaluation section. Detailed visualizations of feature importance and prediction outcomes are also included.
   
