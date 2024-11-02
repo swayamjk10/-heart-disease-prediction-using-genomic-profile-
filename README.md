@@ -50,8 +50,10 @@ To run this project locally, follow these steps:
 
 4. Activate the virtual environment
    On Windows:
-```bash
-venv\Scripts\activate
+   ```bash
+   venv\Scripts\activate
+
+
    
 
    
