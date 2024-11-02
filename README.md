@@ -48,18 +48,10 @@ To run this project locally, follow these steps:
    ```bash
    python -m venv venv
 
-4. Activate the virtual environment
-   On Windows:
-   ```bash
-   venv\Scripts\activate
-
-
-   
-
-   
+4.Activate the virtual environment:
 On macOS/Linux:
 ```bash
-source venv/bin/activate
+venv/bin/activate
 
 5. Install the required packages:
 ```bash
@@ -78,3 +70,5 @@ Open a web browser and navigate to http://localhost:8501.
 ## 📈 Model Evaluation
 
 The model's performance metrics, including accuracy, precision, recall, and F1 score, can be found in the model evaluation section. Detailed visualizations of feature importance and prediction outcomes are included.
+
+  
