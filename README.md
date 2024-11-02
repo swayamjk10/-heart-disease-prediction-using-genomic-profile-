@@ -48,11 +48,12 @@ To run this project locally, follow these steps:
    ```bash
    python -m venv venv
 
-4. Activate the virtual environment:
-
-On Windows:
+4. Activate the virtual environment
+   On Windows:
 ```bash
 venv\Scripts\activate
+   
+
    
 On macOS/Linux:
 ```bash
