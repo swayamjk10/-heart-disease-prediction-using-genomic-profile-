@@ -40,38 +40,38 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/heart-disease-predictor.git
 
-Navigate to the project directory:
-
+2. Navigate to the project directory:
+```bash
 cd heart-disease-predictor
 
-Create a virtual environment (optional but recommended):
-
+3. Create a virtual environment (optional but recommended):
+```bash
 python -m venv venv
 
-Activate the virtual environment:
+4. Activate the virtual environment:
 
 On Windows:
-
+```bash
 venv\Scripts\activate
 
 On macOS/Linux:
-
+```bash
 source venv/bin/activate
 
-Install the required packages:
-
+5. Install the required packages:
+```bash
 pip install -r requirements.txt
 
-🖥️ Usage
+**🖥️ Usage**
 
-Run the Streamlit app:
-
+6. Run the Streamlit app:
+```bash
 streamlit run app.py
 
 Open a web browser and navigate to http://localhost:8501.
 
-Input the required health parameters in the application and submit to receive a prediction. 🩺
+**Input the required health parameters in the application and submit to receive a prediction. 🩺**
 
-📈 Model Evaluation
+## 📈 Model Evaluation
 
 The model's performance metrics, including accuracy, precision, recall, and F1 score, can be found in the model evaluation section. Detailed visualizations of feature importance and prediction outcomes are included.
