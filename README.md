@@ -50,14 +50,13 @@ To run this project locally, follow these steps:
 
 4.Activate the virtual environment:
 On macOS/Linux:
-```bash
-venv/bin/activate
+source venv/bin/activate
 
 5. Install the required packages:
 ```bash
 pip install -r requirements.txt
 
-**🖥️ Usage**
+## 🖥️ Usage
 
 6. Run the Streamlit app:
 ```bash
