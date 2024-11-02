@@ -41,19 +41,19 @@ To run this project locally, follow these steps:
    git clone https://github.com/yourusername/heart-disease-predictor.git
 
 2. Navigate to the project directory:
-```bash
-cd heart-disease-predictor
-
+   ```bash
+   cd heart-disease-predictor
+    
 3. Create a virtual environment (optional but recommended):
-```bash
-python -m venv venv
+   ```bash
+   python -m venv venv
 
 4. Activate the virtual environment:
 
 On Windows:
 ```bash
 venv\Scripts\activate
-
+   
 On macOS/Linux:
 ```bash
 source venv/bin/activate
