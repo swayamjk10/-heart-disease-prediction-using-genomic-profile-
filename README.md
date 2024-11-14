@@ -34,12 +34,12 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/heart-disease-predictor.git
+   git clone https://github.com/swayamjk10/-heart-disease-prediction-using-genomic-profile-.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd heart-disease-predictor
+   cd -heart-disease-prediction-using-genomic-profile-
    ```
     
 3. Create a virtual environment (optional but recommended):
