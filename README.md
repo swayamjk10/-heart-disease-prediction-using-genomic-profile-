@@ -14,8 +14,6 @@ This project aims to predict the presence of heart disease in patients using mac
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Evaluation](#model-evaluation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🌟 Features
 
