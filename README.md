@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 6. Run the Streamlit app:
 ```bash
-streamlit run app.py
+streamlit run app7.py
 ```
 
 `Open a web browser and navigate to http://localhost:8501.`
